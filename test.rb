@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdadfsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 dfsdf
 sdadfsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafsd
@@ -8,3 +9,8 @@ sdff
 asd
 dfsdfasd
 ff
+=======
+sjakNHHnanananananananananananananal
+
+SFASFASFASFASFASFASFASFASFASFASFASFASFASFASFASFASFASFASFASFASFA
+>>>>>>> iss53
